@@ -1,0 +1,32 @@
+.contactgbutton{
+    background-color: #BB0B0B;
+    color: white;
+    font-weight: bold;
+    margin: 5px 0px 0px;
+    padding: 19px 30px;
+    border-radius: 10px;
+    border: none;
+    transition: background-color 0.4s ease;
+}
+
+.contactgbutton:hover{
+    background-color: black;
+    
+}
+
+.sidecontactgbutton{
+    background-color: #BB0B0B;
+    color: white;
+    font-weight: bold;
+    margin: 5px 0px 0px;
+    padding: 19px 30px;
+    border-radius: 10px;
+    border: none;
+    transition: background-color 0.4s ease;
+}
+
+.sidecontactgbutton:hover{
+    background-color: white;
+    color: #BB0B0B;
+    
+}
